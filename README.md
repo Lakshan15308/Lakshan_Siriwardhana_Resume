@@ -96,7 +96,7 @@ Senior Information Security Engineer with over 10 years of experience across ban
 ---
 
 ## Additional Information
-- Technical Blog: https://threathuntingprocess.blogspot.com/2022/11/threat-hunting.html
+- Technical Blog: [https://threathuntingprocess.blogspot.com/2022/11/threat-hunting.html](https://aiwithsecurity.blogspot.com/2025/12/threat-hunting.html)
 - Docker Hub: https://hub.docker.com/repositories/laka15308
 
 
